@@ -1,0 +1,7 @@
+name: 'wine-quality-prediction-env'
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - python=3
+  - jupyterlab
